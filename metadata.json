@@ -1,0 +1,6 @@
+{
+  "name": "Sinhala Voiceover Studio",
+  "description": "Create high quality voiceovers from Sinhala scripts with AI speech synthesis and playback speed controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
